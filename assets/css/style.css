@@ -22,7 +22,7 @@ body {
 }
 
 .header h1 .seo {
-  color: #d9dcd6;
+  color: #04a4fa;
 }
 
 .header div {
@@ -131,12 +131,15 @@ p {
   font-size: 36px;
 }
 
-.footer {
+footer {
   padding: 30px;
   clear: both;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   text-align: center;
+  background: #0072bb;
+  color: white;
+  background-image: linear-gradient(to right, #0072bb, #2589bd);
 }
 
 .footer h2 {
