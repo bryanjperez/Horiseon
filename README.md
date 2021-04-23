@@ -19,6 +19,10 @@ This task was accomplished with a few changes to the HTML file.
 - Proper commenting on HTML and CSS files
 - Added CSS enhancements to footer (gradient) and color/pop to 'seo' in Header text
 
+### Link to deployed application:
+
+https://bryanjperez.github.io/Horiseon/
+
 ### Screenshot (above the fold)
 
 ![Screen Shot 2021-04-22 at 9 59 05 PM](https://user-images.githubusercontent.com/79334697/115808082-cd154d00-a3b7-11eb-9e55-278be6647c00.png)
