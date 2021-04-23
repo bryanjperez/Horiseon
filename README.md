@@ -2,7 +2,7 @@
 
 ## First challenge assignment for Rutgers Coding Bootcamp
 
-In this challenge, I was tasked with refactoring the HTML and CSS code for Horiseon, a marekting agency that wanted an SEO-friendly website that followed accessibility.
+In this challenge, I was tasked with refactoring the HTML and CSS code for Horiseon, a marketing agency that wanted an SEO-friendly website that followed accessibility.
 
 This task was accomplished with a few changes to the HTML file.
 
