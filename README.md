@@ -18,3 +18,7 @@ This task was accomplished with a few changes to the HTML file.
 - CSS selectors consolidated and organized
 - Proper commenting on HTML and CSS files
 - Added CSS enhancements to footer (gradient) and color/pop to 'seo' in Header text
+
+## Screenshot (above the fold)
+
+## Screenshot (below the fold)
